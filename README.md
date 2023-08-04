@@ -15,5 +15,6 @@ Although NXUI is a great way to get started with Avalonia and F#, there are othe
 - Plain [Avalonia](https://avaloniaui.net/)
 - [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI)
 - [Fabulous.Avalonia](https://github.com/fabulous-dev/Fabulous.Avalonia)
+- [Elmish.Avalonia](https://github.com/JordanMarr/Elmish.Avalonia)
 
 All of them offer similar or different approaches to building UIs with F#.
