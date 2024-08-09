@@ -1,9 +1,8 @@
 module Sample.Counter
 
-open FSharp.Data.Adaptive
-
 open Avalonia.Controls
 
+open FSharp.Data.Adaptive
 open NXUI.FSharp.Extensions
 
 open Navs.Avalonia

@@ -7,8 +7,6 @@ open NXUI.FSharp.Extensions
 
 open Navs
 
-
-
 let view (router: IRouter<Control>) =
   StackPanel()
     .DockTop()

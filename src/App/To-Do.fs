@@ -1,14 +1,14 @@
 module Sample.Todo
 
+open System
+open Avalonia
 open Avalonia.Controls
 open Avalonia.Controls.Templates
 
-open NXUI.FSharp.Extensions
-open Navs.Avalonia
-
 open FSharp.Data.Adaptive
-open System
-open Avalonia
+open NXUI.FSharp.Extensions
+
+open Navs.Avalonia
 
 type Todo = {
   id: Guid

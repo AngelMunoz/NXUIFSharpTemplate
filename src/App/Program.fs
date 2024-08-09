@@ -4,10 +4,10 @@ open Avalonia.Controls
 open NXUI.Extensions
 open NXUI.FSharp.Extensions
 
+open Navs
 open Navs.Avalonia
 
 open Sample
-open Navs
 
 let getRoutes (todoService: Todo.TodoService) = [
   Route.define("counter", "/counter", Counter.view)
