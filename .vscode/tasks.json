@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "msbuild",
+      "problemMatcher": ["$msCompile"],
+      "group": "build",
+      "label": "build",
+      "detail": "Build the App.fsproj project using dotnet build"
+    }
+  ]
+}
